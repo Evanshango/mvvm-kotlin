@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Movies</string>
+    <string name="book">Book</string>
+    <string name="_23023_votes">23023 votes</string>
+    <string name="_78">78%</string>
+    <string name="_new">New</string>
+    <string name="ua">UA</string>
 </resources>
